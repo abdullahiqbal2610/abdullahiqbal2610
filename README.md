@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Muhammad%20Abdullah%20Iqbal&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Full-Stack%20Engineer%20%7C%20AI%20%26%20RAG%20Systems&amp;descAlignY=56&amp;descSize=18&amp;descColor=c9d1d9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Abdullah%20Iqbal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20AI%20%2F%20RAG%20Systems&descAlignY=56&descSize=18&descColor=c9d1d9" width="100%"/>
 
 </div>
 
@@ -95,14 +95,14 @@ ask_me:      Vector databases · Agentic architectures · WhatsApp bot infra
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdullahiqbal2610&amp;show_icons=true&amp;theme=tokyonight&amp;count_private=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=1f6feb&amp;text_color=c9d1d9&amp;ring_color=58a6ff" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahiqbal2610&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;langs_count=8" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abdullahiqbal2610&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahiqbal2610&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180em"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=abdullahiqbal2610&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0d1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=ff6b6b&amp;currStreakNum=ffffff&amp;sideNums=c9d1d9&amp;currStreakLabel=58a6ff&amp;sideLabels=c9d1d9&amp;dates=8b949e" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=abdullahiqbal2610&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="60%"/>
 
 </div>
 
@@ -114,7 +114,7 @@ ask_me:      Vector databases · Agentic architectures · WhatsApp bot infra
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahiqbal2610&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahiqbal2610&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -231,6 +231,6 @@ Currently deep in building the next generation of agentic tools. Stay tuned. ⚡
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
