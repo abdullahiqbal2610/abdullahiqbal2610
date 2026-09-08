@@ -87,46 +87,19 @@ ask_me:      Vector databases · Agentic architectures · WhatsApp bot infra
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--       GITHUB STATS TRIFECTA — Stats + Streak + Top Langs     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdullahiqbal2610&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahiqbal2610&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180em"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=abdullahiqbal2610&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="60%"/>
-
-</div>
+<img src="./github-metrics.svg" width="100%"/>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              ACTIVITY GRAPH — Full Width                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahiqbal2610&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              GITHUB PROFILE TROPHIES                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdullahiqbal2610&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://raw.githubusercontent.com/abdullahiqbal2610/abdullahiqbal2610/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -185,27 +158,7 @@ Currently deep in building the next generation of agentic tools. Stay tuned. ⚡
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--       GITHUB METRICS + 3D CITY + SNAKE ANIMATIONS            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📈 Metrics & Visualizations
-
-<div align="center">
-
-<img src="./github-metrics.svg" width="100%"/>
-
-<br/>
-
-<img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/abdullahiqbal2610/abdullahiqbal2610/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     CONNECT + RESUME                         -->
